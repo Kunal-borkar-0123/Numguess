@@ -31,11 +31,9 @@
  
 <h2 align="left"><b>Connect with me</b></h4>
 <p align="left">
-<a href="https://twitter.com/@Akshayv69128812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Akshayv69128812" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/akshay-vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akshay-vs" height="30" width="40" /></a>
-<a href="https://instagram.com/akshay._.vs__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__akshay_v5__" height="30" width="40" /></a>
+<a href="https:twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com alt="" height="30" width="40" /></a>
+<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com height="30" width="40" /></a>
+<a href="https://instagram.com/akshay._.vs__" target="blank"><img align="center" src="https://raw.githubusercontent.com height="30" width="40" /></a>
 </p>
  
 <h2 align='left'><u><b>License and Copyright</b></u></h2>
-Lisence: MIT Lisence<br>
-&#169; 2021 Akshay Vs
