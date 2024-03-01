@@ -25,7 +25,7 @@
  
  <h2><u><b>Installation</u></b></h2>
  
- Install using git bash<code> $git clone https://github.com/Akshay-Vs/Number-Guessing-game.git </code><br>
+ Install using git bash<code> $git clone https://github.com/Kunal-borkar-0123/Numguess.git </code><br>
  os click download button 👇 <br>
  <a href="https://github.com/Akshay-Vs/Number-Guessing-game/archive/refs/heads/main.zip" target="blank"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/src/download_bt.png" alt="blank" height="78" width="200" /></a>
  
