@@ -29,11 +29,3 @@
  os click download button 👇 <br>
  <a href="https://github.com/Akshay-Vs/Number-Guessing-game/archive/refs/heads/main.zip" target="blank"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/src/download_bt.png" alt="blank" height="78" width="200" /></a>
  
-<h2 align="left"><b>Connect with me</b></h4>
-<p align="left">
-<a href="https:twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com alt="" height="30" width="40" /></a>
-<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com height="30" width="40" /></a>
-<a href="https://instagram.com/akshay._.vs__" target="blank"><img align="center" src="https://raw.githubusercontent.com height="30" width="40" /></a>
-</p>
- 
-<h2 align='left'><u><b>License and Copyright</b></u></h2>
